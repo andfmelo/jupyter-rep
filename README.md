@@ -1,1 +1,1 @@
-# python-rep
+Repository for python projects.
